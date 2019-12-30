@@ -13,6 +13,7 @@ Open terminal and Run:
 Verify, run:
 
 ```python --version```
+
 ```pip3 --version```
 
 ### PyCharm
